@@ -20,7 +20,9 @@ class Solution:
         
         res = strs[0]
         
-        # effective time complexity O(n ^ 2)
+        # effective time complexity O(n ^ m)
+        # n = no of word in the list
+        # m = length of word_1
         for i in range(1, len(strs)):
             res = self.check_prefix(res, strs[i])
 
