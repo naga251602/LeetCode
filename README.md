@@ -28,7 +28,7 @@ This repository contains my solutions to various **LeetCode** problems, written 
 Browse by topic or difficulty level, explore my approaches, and compare solutions. You can clone this repo and try running the solutions locally:
 
 ```bash
-git clone https://github.com/<your-username>/LeetCode.git
+git clone https://github.com/naga251602/LeetCode.git
 cd LeetCode
 ```
 
