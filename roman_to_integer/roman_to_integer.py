@@ -18,3 +18,5 @@ class Solution:
             else: total += data[s[i]]
 
         return total
+    
+    
