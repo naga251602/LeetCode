@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/naga251602/LeetCode/tree/master/2058-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/naga251602/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/naga251602/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
