@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/naga251602/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/naga251602/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naga251602/LeetCode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/naga251602/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/naga251602/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/naga251602/LeetCode/tree/master/0260-single-number-iii) |
 ## Hash Table
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/naga251602/LeetCode/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/naga251602/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
