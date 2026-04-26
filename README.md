@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/naga251602/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/naga251602/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/naga251602/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naga251602/LeetCode/tree/master/0137-single-number-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/naga251602/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/naga251602/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/naga251602/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/naga251602/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/naga251602/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
