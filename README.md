@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/naga251602/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/naga251602/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/naga251602/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/naga251602/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/naga251602/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/naga251602/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/naga251602/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/naga251602/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/naga251602/LeetCode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
