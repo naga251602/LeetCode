@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/naga251602/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/naga251602/LeetCode/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/naga251602/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naga251602/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/naga251602/LeetCode/tree/master/0260-single-number-iii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/naga251602/LeetCode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/naga251602/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 ## String
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/naga251602/LeetCode/tree/master/0258-add-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
