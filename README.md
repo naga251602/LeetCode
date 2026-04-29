@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/naga251602/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/naga251602/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/naga251602/LeetCode/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/naga251602/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/naga251602/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/naga251602/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/naga251602/LeetCode/tree/master/0258-add-digits) |
