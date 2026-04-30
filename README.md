@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/naga251602/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/naga251602/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/naga251602/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2058-concatenation-of-array](https://github.com/naga251602/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/naga251602/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/naga251602/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/naga251602/LeetCode/tree/master/0283-move-zeroes) |
 ## Number Theory
 |  |
 | ------- |
