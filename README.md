@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/naga251602/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/naga251602/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/naga251602/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/naga251602/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/naga251602/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/naga251602/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/naga251602/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naga251602/LeetCode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/naga251602/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/naga251602/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
