@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/naga251602/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/naga251602/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/naga251602/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/naga251602/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/naga251602/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
