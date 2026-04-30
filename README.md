@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/naga251602/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naga251602/LeetCode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/naga251602/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 | [2058-concatenation-of-array](https://github.com/naga251602/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/naga251602/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/naga251602/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 ## String
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/naga251602/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/naga251602/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Binary Search
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -100,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
