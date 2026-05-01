@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/naga251602/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/naga251602/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/naga251602/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/naga251602/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/naga251602/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naga251602/LeetCode/tree/master/0137-single-number-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/naga251602/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/naga251602/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
