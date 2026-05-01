@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/naga251602/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naga251602/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/naga251602/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/naga251602/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/naga251602/LeetCode/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/naga251602/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/naga251602/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/naga251602/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/naga251602/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naga251602/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naga251602/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/naga251602/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
