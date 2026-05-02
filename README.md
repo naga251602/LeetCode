@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naga251602/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naga251602/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naga251602/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/naga251602/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/naga251602/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/naga251602/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/naga251602/LeetCode/tree/master/0078-subsets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/naga251602/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/naga251602/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/naga251602/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/naga251602/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/naga251602/LeetCode/tree/master/0202-happy-number) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/naga251602/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/naga251602/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/naga251602/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/naga251602/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/naga251602/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/naga251602/LeetCode/tree/master/0067-add-binary) |
 ## Backtracking
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/naga251602/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/naga251602/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/naga251602/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
