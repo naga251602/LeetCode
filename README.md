@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/naga251602/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naga251602/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/naga251602/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/naga251602/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/naga251602/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/naga251602/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/naga251602/LeetCode/tree/master/0078-subsets) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/naga251602/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/naga251602/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/naga251602/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/naga251602/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naga251602/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/naga251602/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
