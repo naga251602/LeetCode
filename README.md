@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/naga251602/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/naga251602/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/naga251602/LeetCode/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/naga251602/LeetCode/tree/master/0812-rotate-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/naga251602/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/naga251602/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
