@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/naga251602/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/naga251602/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/naga251602/LeetCode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/naga251602/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/naga251602/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/naga251602/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naga251602/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/naga251602/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/naga251602/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/naga251602/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/naga251602/LeetCode/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/naga251602/LeetCode/tree/master/0812-rotate-string) |
 ## Backtracking
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/naga251602/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/naga251602/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/naga251602/LeetCode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
