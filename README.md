@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/naga251602/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/naga251602/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naga251602/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/naga251602/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/naga251602/LeetCode/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/naga251602/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/naga251602/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/naga251602/LeetCode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/naga251602/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/naga251602/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/naga251602/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naga251602/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/naga251602/LeetCode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/naga251602/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/naga251602/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/naga251602/LeetCode/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/naga251602/LeetCode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
