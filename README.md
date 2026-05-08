@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/naga251602/LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/naga251602/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/naga251602/LeetCode/tree/master/0792-binary-search) |
+| [0965-unique-email-addresses](https://github.com/naga251602/LeetCode/tree/master/0965-unique-email-addresses) |
 | [2058-concatenation-of-array](https://github.com/naga251602/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naga251602/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/naga251602/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/naga251602/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0965-unique-email-addresses](https://github.com/naga251602/LeetCode/tree/master/0965-unique-email-addresses) |
 ## String
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/naga251602/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/naga251602/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/naga251602/LeetCode/tree/master/0812-rotate-string) |
+| [0965-unique-email-addresses](https://github.com/naga251602/LeetCode/tree/master/0965-unique-email-addresses) |
 ## Backtracking
 |  |
 | ------- |
