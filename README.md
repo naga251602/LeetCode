@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/naga251602/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/naga251602/LeetCode/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/naga251602/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/naga251602/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2058-concatenation-of-array](https://github.com/naga251602/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/naga251602/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/naga251602/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/naga251602/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/naga251602/LeetCode/tree/master/0207-course-schedule) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/naga251602/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
