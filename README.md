@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/naga251602/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/naga251602/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/naga251602/LeetCode/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/naga251602/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/naga251602/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/naga251602/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/naga251602/LeetCode/tree/master/0231-power-of-two) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/naga251602/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/naga251602/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/naga251602/LeetCode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/naga251602/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/naga251602/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/naga251602/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/naga251602/LeetCode/tree/master/0268-missing-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/naga251602/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/naga251602/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/naga251602/LeetCode/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/naga251602/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/naga251602/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/naga251602/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/naga251602/LeetCode/tree/master/0389-find-the-difference) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/naga251602/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/naga251602/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## String Matching
 |  |
@@ -328,4 +332,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/naga251602/LeetCode/tree/master/0207-course-schedule) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/naga251602/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/naga251602/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/naga251602/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/naga251602/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
