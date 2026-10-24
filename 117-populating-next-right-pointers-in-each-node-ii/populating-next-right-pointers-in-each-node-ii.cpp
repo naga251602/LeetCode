@@ -18,29 +18,29 @@ public:
 
 class Solution {
 public:
-    vector<vector<Node *>> vec;
     void bfs(Node *root) {
         queue<Node *> q;
         q.push(root);
 
         while (!q.empty()) {
-            vector<Node *> level;
+            Node *prev = nullptr;
             int n = q.size();
 
             for (int i = 0; i < n; i ++) {
                 Node *r = q.front();
                 q.pop();
                 
-                level.push_back(r);
+                if (prev != nullptr) {
+                    prev->next = r;
+                }
+                
+                prev = r;
+                
+
                 if (r->left) q.push(r->left);
                 if (r->right) q.push(r->right);
             }
 
-            if (level.size() > 1){
-                for (int i = 0; i < level.size()-1; i ++) {
-                    level[i]->next = level[i+1];
-                }
-            }
         }
     }
 
