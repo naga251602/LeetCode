@@ -8,31 +8,29 @@ class Solution:
         if not head: return None
         
         curr, nxt, prev = head, head.next, None
-        init = 0
-        h = head
 
         while nxt:
+            # swap logic
             temp = nxt.next
             nxt.next = curr
             curr.next = temp
 
+            # checking if this is the first update
             if prev: 
+                # if no then its the second chain update the previous node 
                 prev.next = nxt
+            else:
+                # first update so next node becomes the first
+                head = nxt
 
             prev = curr
-            
             curr = curr.next
             
-            if init == 0: 
-                h = nxt
-                
+            # check if we have atleast 2 nodes to perform the operation
             if curr: nxt = curr.next
             else: break
 
-            init = 1
-
-
-        return h
+        return head
             
 
             
